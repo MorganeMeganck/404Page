@@ -1,35 +1,45 @@
 
 h1 {
-  color: #6666ff;
- font-family: 'Courier', monospace;;
-font-size: 50px;
+  color: black;
+ font-family: 'Pacifico', cursive;
+font-size: 100px;
 margin: auto;
 text-align: center;
 
 }
 
 h2 {
-  color: #6666ff;
-  font-family: 'Courier', monospace;
+  color: black;
+  font-size: 50px;
+font-family: 'Pacifico', cursive;
   margin: auto;
   text-align: center;
 }
 
 p {
-color: #6666ff;
-  font-family: 'Palatino Linotype', 'Book Antiqua', Palatino, serif;
+color: black;
+font-size: 25px;
+  font-family: 'Pacifico', cursive;
   margin: auto;
   text-align: center;
 }
 body {
     border: 5px dotted black;
+    background-color: rgba(164, 87, 40, 0.67);
+    padding-bottom: 200px;
 
 }
 
 a { text-align: center;
 
 }
+.corgi{
+  margin:auto;
+  padding-right: 10px;
+  max-width: 80%;
+  height: auto;
+}
 .bouton{
-float: left; /* la valeur"left" pour placer le bouton à gauche,
- "right" pour le placer à droite et "center" pour le centrer*/
+  margin: auto;
+  text-align: center;
 }
